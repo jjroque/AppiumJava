@@ -33,7 +33,9 @@ Project Appium maven with cucumber for Android and iOS
 * **[cucumber.io](https://cucumber.io/docs/guides/10-minute-tutorial/)**
 * **[pagefactory](https://github.com/appium/java-client/blob/master/docs/Page-objects.md)**
 
+## Linkedin
 
+https://www.linkedin.com/in/joseroquejunior/
 
 
 
