@@ -10,7 +10,7 @@ public class Lista_filmes_steps {
     public Lista_filmes_steps() {
         lista = new Lista_filmes();
     }
-
+    //Metodos
     @Dado("^que estou na lista de filmes$")
     public void queEstouNaListaDeFilmes() throws Throwable {
         this.lista.home();
