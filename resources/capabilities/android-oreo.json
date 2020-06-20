@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "deviceName": "RoqueDevice",
+  "platformVersion": "10",
+  "automationName": "UiAutomator2",
+  "udid": "emulator-5554",
+  "avd": "RoqueDevice",
+  "fullReset": true,
+  "newCommandTimeout": 5
+}
+
